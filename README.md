@@ -27,4 +27,9 @@ or Fred or any other repostitory site
 -  Power Bi (for creating a report)
 -  Ms power point (for presentation)
   ### Data cleaning and preparation
+  In the initial phase of the Data cleaning and preparations, 
+  we perform the following action;
+1. Data loading and inspecion
+2.  Handing Missing varriables
+3.   Data cleaning and formatting
 
