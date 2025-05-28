@@ -12,3 +12,18 @@ of the E commerce project over the past year. By analysisng the various paramete
 received we seek to gather enough insight to make reasonable decisions which then enable us to tell
 compelling stories around our data from the insight gotten and to know the best performance from our data.
 
+### Data source
+Tne  primary data source of data used here is data sale.csv and this is an open source 
+data that can easily be freely downloaded from an open source online such as kaggle
+or Fred or any other repostitory site
+
+### Tools Used
+-  Ms Excel for data cleaning [download here](https://www.microsoft.com)
+  - For data collection
+  - For data cleaning
+    1. Data Manupulation
+    2. Data Munching
+-  SQL Server ( for querying and analysis)
+-  Power Bi (for creating a report)
+-  Ms power point (for presentation)
+
