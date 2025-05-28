@@ -26,4 +26,5 @@ or Fred or any other repostitory site
 -  SQL Server ( for querying and analysis)
 -  Power Bi (for creating a report)
 -  Ms power point (for presentation)
+  ### Data cleaning and preparation
 
