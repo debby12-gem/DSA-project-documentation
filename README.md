@@ -47,3 +47,6 @@ DAX expression used during the analysis
     Select A,B,C
     WHere A> 15
     ~~~
+
+
+### Analysis
