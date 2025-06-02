@@ -50,6 +50,3 @@ DAX expression used during the analysis
 
 
 ### Analysis
-
-~~~DSA analysis.sql
-~~~
