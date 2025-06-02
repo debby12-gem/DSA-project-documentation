@@ -33,3 +33,10 @@ or Fred or any other repostitory site
 2.  Handing Missing varriables
 3.   Data cleaning and formatting
 
+### Exploratory data analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+  - What is thneoverall sales trend
+  - Which products are top sellers
+  - What are the product of peak sales? 
+
+
